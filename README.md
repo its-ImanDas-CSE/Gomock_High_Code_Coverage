@@ -1,0 +1,2 @@
+# Gomock_High_Code_Coverage
+Gomock_High_Code_Coverage
